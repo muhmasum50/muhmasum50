@@ -1,4 +1,4 @@
-<p align="center"><a href="instagram.com/auldeyy61" target="_blank"><img src="http://nggonepixel.com/assets/images/space-discovery.png" width="550"></a></p>
+<p align="center"><a href="instagram.com/auldeyy61" target="_blank"><img src="http://nggonepixel.com/assets/images/space-discovery.png" width="500"></a></p>
 
 ## About Me 👋
 Hi! 👋️👋 I'm Ma'sum ppl call me Ma'sum but u guys can call me PIXEL hehe.., now i'm a software engineer with a background in programming. I've enjoyed experiences in web  especially as back end developer 💕
