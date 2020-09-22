@@ -1,16 +1,27 @@
-### Hi there 👋
+<p align="center"><a href="instagram.com/auldeyy61" target="_blank"><img src="http://nggonepixel.com/assets/images/space-discovery.png" width="550"></a></p>
 
-<!--
-**muhmasum50/muhmasum50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 👋
+Hi! 👋️👋 I'm Ma'sum ppl call me Ma'sum but u guys can call me PIXEL hehe.., now i'm a software engineer with a background in programming. I've enjoyed experiences in web  especially as back end developer 💕
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻️ Programming Language
+- PHP (really love it!) 💕
+- Dart (on going)
+
+🔥️ Framework :
+- Laravel
+- Code Igniter
+- Flutter (on going 🌱🌱)
+
+🔥️ Private Projects 
+- https://www.nggonepixel.com/
+- https://www.pos.nggonepixel.com/
+
+
+👨‍Get in touch
+
+- LinkedIn : https://id.linkedin.com/in/muhmasum50
+- Twitter : https://twitter.com/callmepixel61
+- Instagram : https://instagram.com/auldeyy61
+- Email : muhmasum6661@gmail.com
+
