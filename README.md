@@ -21,7 +21,6 @@ Hi! 👋️👋 I'm Ma'sum ppl call me Ma'sum but u guys can call me PIXEL hehe.
 👨‍Get in touch
 
 - LinkedIn : https://id.linkedin.com/in/muhmasum50
-- Twitter : https://twitter.com/callmepixel61
 - Instagram : https://instagram.com/auldeyy61
 - Email : muhmasum6661@gmail.com
 
