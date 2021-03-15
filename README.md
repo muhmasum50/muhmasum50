@@ -11,6 +11,7 @@ Hi! 👋️👋 I'm Ma'sum ppl call me Ma'sum but u guys can call me PIXEL hehe.
 🔥️ Framework :
 - Laravel
 - Code Igniter
+- React Native
 - Flutter (on going 🌱🌱)
 
 🔥️ Private Projects 
