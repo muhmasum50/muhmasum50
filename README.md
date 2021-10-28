@@ -5,13 +5,14 @@ Hi! 👋️👋 I'm Ma'sum ppl call me Ma'sum but u guys can call me PIXEL hehe.
 
 
 💻️ Programming Language
-- PHP (really love it!) 💕
-- Dart (on going)
+- PHP
+- Javascript
 
 🔥️ Framework :
 - Laravel
 - Code Igniter
 - React Native
+- Next JS
 - Flutter (on going 🌱🌱)
 
 🔥️ Private Projects 
