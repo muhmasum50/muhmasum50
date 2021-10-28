@@ -1,7 +1,7 @@
 <p align="center"><a href="instagram.com/auldeyy61" target="_blank"><img src="https://www.nggonepixel.com/assets/images/space-discovery.png" width="500"></a></p>
 
 ## About Me 👋
-Hi! 👋️👋 I'm Ma'sum ppl call me Ma'sum but u guys can call me PIXEL hehe.., now i'm a software engineer with a background in programming. I've enjoyed experiences in web  especially as back end developer 💕
+Hi! 👋️👋 I'm Ma'sum Hello guys, I'm someone who loves programming, especially website development. I am always learning and keep learning to improvise existing technology, and now I am working as a web developer 💕
 
 
 💻️ Programming Language
