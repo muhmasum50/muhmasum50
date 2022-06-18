@@ -13,6 +13,7 @@ Hi! 👋️👋 I'm Ma'sum Hello guys, I'm someone who loves programming, especi
 - Code Igniter
 - React Native
 - Next JS
+- Express JS
 - Flutter (on going 🌱🌱)
 
 🔥️ Private Projects 
