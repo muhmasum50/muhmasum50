@@ -1,7 +1,9 @@
-<p align="center"><a href="instagram.com/auldeyy61" target="_blank"><img src="https://www.nggonepixel.com/assets/images/space-discovery.png" width="500"></a></p>
+<p align="center"><a href="https://personal-murex.vercel.app/" target="_blank"><img src="https://personal-murex.vercel.app/img/picture-1.png" width="500"></a></p>
 
 ## About Me 👋
-Hi! 👋️👋 I'm Ma'sum Hello guys, I'm someone who loves programming, especially website development. I am always learning and keep learning to improvise existing technology, and now I am working as a web developer 💕
+Hi! 👋️👋 I'm Ma'sum Hello guys, I'm someone who loves programming, especially website development. I always learn deep of fundamental of programming languange to improvise existing technology, and also i love to learn new tech such as Frontend Dev and Mobile Dev.
+
+ 💕
 
 
 💻️ Programming Language
@@ -14,16 +16,12 @@ Hi! 👋️👋 I'm Ma'sum Hello guys, I'm someone who loves programming, especi
 - React Native
 - Next JS
 - Express JS
-- Flutter (on going 🌱🌱)
-
-🔥️ Private Projects 
-- https://www.nggonepixel.com/
-- https://www.pos.nggonepixel.com/
-
+- React JS
+- Vue JS
 
 👨‍Get in touch
 
 - LinkedIn : https://id.linkedin.com/in/muhmasum50
-- Instagram : https://instagram.com/auldeyy61
 - Email : muhmasum6661@gmail.com
+- Personal Website : https://personal-murex.vercel.app/
 
