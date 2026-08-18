@@ -8,6 +8,18 @@ Beyond backend development, I also work with frontend technologies and infrastru
 
 I'm passionate about continuously improving my understanding of **software engineering fundamentals, system architecture, backend technologies, and modern development practices**.
 
+---
+
+<h3 align="center">🛠 Tech I Enjoy Working With</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,go,js,ts,laravel,expressjs,react,nextjs,vue,nuxtjs,bootstrap,tailwindcss,postgres,mysql,mongodb,docker,cloudflare,grafana,prometheus,bun,nodejs,vite,jenkins,linux" />
+  </a>
+</p>
+
+---
+
 ### What I Do
 
 - 🧠 **Backend Engineering** — APIs, business logic, databases, and system architecture
@@ -17,118 +29,3 @@ I'm passionate about continuously improving my understanding of **software engin
 - 📈 **Monitoring & Reliability** — Observability and maintaining reliable applications
 
 > **Backend-focused engineer with a full-stack mindset and DevOps experience.**
-
----
-
-<h3 align="center">🛠 Tech I Enjoy Working With</h3>
-
-### Languages
-
-<p align="left">
-  <a href="https://www.php.net/">
-    <img src="https://skillicons.dev/icons?i=php" />
-  </a>
-  <a href="https://go.dev/">
-    <img src="https://skillicons.dev/icons?i=go" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-</p>
-
-### Backend
-
-<p align="left">
-  <a href="https://laravel.com/">
-    <img src="https://skillicons.dev/icons?i=laravel" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" />
-  </a>
-</p>
-
-### Frontend
-
-<p align="left">
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
-  </a>
-  <a href="https://nuxt.com/">
-    <img src="https://skillicons.dev/icons?i=nuxtjs" />
-  </a>
-  <a href="https://vuejs.org/">
-    <img src="https://skillicons.dev/icons?i=vue" />
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </a>
-  <a href="https://vite.dev/">
-    <img src="https://skillicons.dev/icons?i=vite" />
-  </a>
-</p>
-
-### Database & Infrastructure
-
-<p align="left">
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-  <a href="https://mariadb.org/">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://www.pgbouncer.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://www.cloudflare.com/">
-    <img src="https://skillicons.dev/icons?i=cloudflare" />
-  </a>
-</p>
-
-### DevOps, CI/CD & Security
-
-<p align="left">
-  <a href="https://www.jenkins.io/">
-    <img src="https://skillicons.dev/icons?i=jenkins" />
-  </a>
-  <a href="https://www.sonarsource.com/products/sonarqube/">
-    <img src="https://res.cloudinary.com/db1izrdai/image/upload/v1787023473/Sonarqube--Streamline-Svg-Logos_ovlvkp.svg" />
-  </a>
-  <a href="https://snyk.io/">
-    <img src="https://res.cloudinary.com/db1izrdai/image/upload/v1787023599/snyk.png" />
-  </a>
-  <a href="https://owasp.org/">
-    <img src="https://skillicons.dev/icons?i=owasp" />
-  </a>
-  <a href="https://trivy.dev/">
-    <img src="https://skillicons.dev/icons?i=trivy" />
-  </a>
-</p>
-
-### Tools & Runtime
-
-<p align="left">
-  <a href="https://bun.sh/">
-    <img src="https://skillicons.dev/icons?i=bun" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-  <a href="https://vite.dev/">
-    <img src="https://skillicons.dev/icons?i=vite" />
-  </a>
-</p>
