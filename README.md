@@ -20,7 +20,7 @@ I'm passionate about continuously improving my understanding of **software engin
 
 ---
 
-## Tech Stack 🛠️
+<h3 align="center">🛠 Tech I Enjoy Working With</h3>
 
 ### Languages
 
@@ -86,7 +86,7 @@ I'm passionate about continuously improving my understanding of **software engin
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
   <a href="https://mariadb.org/">
-    <img src="https://skillicons.dev/icons?i=mariadb" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
   <a href="https://www.pgbouncer.org/">
     <img src="https://skillicons.dev/icons?i=postgres" />
@@ -106,10 +106,10 @@ I'm passionate about continuously improving my understanding of **software engin
     <img src="https://skillicons.dev/icons?i=jenkins" />
   </a>
   <a href="https://www.sonarsource.com/products/sonarqube/">
-    <img src="https://skillicons.dev/icons?i=sonarqube" />
+    <img src="https://res.cloudinary.com/db1izrdai/image/upload/v1787023473/Sonarqube--Streamline-Svg-Logos_ovlvkp.svg" />
   </a>
   <a href="https://snyk.io/">
-    <img src="https://skillicons.dev/icons?i=snyk" />
+    <img src="https://res.cloudinary.com/db1izrdai/image/upload/v1787023599/snyk.png" />
   </a>
   <a href="https://owasp.org/">
     <img src="https://skillicons.dev/icons?i=owasp" />
